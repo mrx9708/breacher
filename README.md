@@ -74,7 +74,7 @@ Simple Setup: Minimal dependencies and straightforward execution.
 Clone the Repository:
 
 Bash
-git clone https://github.com/yourusername/breacher.git
+git clone https://github.com/mrx9708/breacher.git
 cd breacher
 Install Dependencies:
 Breacher requires Python 3.x and a few external libraries. Install them via pip:
